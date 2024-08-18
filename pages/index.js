@@ -3,7 +3,7 @@ import Link from 'next/link';
 import styles from '../styles/home.module.css';
 import logotipo from '../images/logo_renov.png';
 import image from '../images/aboutUs_img.png';
-import points from '../images/whyChoose_img.png';
+import points from '../images/whychoose_img.png';
 import phone from '../images/phone_icon.png';
 import email from '../images/email_icon.png';
 
