@@ -1,0 +1,230 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+.header{
+    width: 100%; height: 100px;
+    background-color:#00535b;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.body{
+    background-color: #00535b;
+    margin: 0 auto;
+    padding: 0;
+}
+
+
+.logo_container{
+    margin-left: 100px;
+    width: 100px; height: 100px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+}
+
+.logo{
+    width: 150px; height: 40px;
+    
+}
+
+.header_buttons{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    width: 500px;
+}
+
+.home_btn, .ourservices_btn, .contact_btn{
+    margin: 20px;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    color: #d1d8e2;
+    font-family: "Montserrat", sans-serif;
+}
+
+.centralimages_container{
+    width: 100%;
+    height: 500px;
+    background-color: #00535b;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+}
+
+.img1{
+    background-color: aliceblue;
+    width: 900px; height: 410px;
+    background-image: url('../images/central1.jpg');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+}
+
+.img2{
+    background-image: url('../images/central2.jpg');
+}
+
+.img3{
+    background-image: url('../images/central3.jpg');
+}
+
+.img2, .img3{
+    background-color: aliceblue;
+    width: 300px; height: 200px;
+    margin: 10px;
+    padding: 0;
+    display: block;
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+}
+
+
+.centralimages_right{
+    display: inline;
+}
+
+.aboutUs{
+    width: 100%;
+    height: 500px;
+    background-color: #00535b;
+    font-family: "Montserrat", sans-serif;
+}
+
+.aboutUs_box1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px; margin-bottom: 30px;
+}
+
+.aboutUs_title{
+    color: #d1d8e2;
+}
+
+.aboutUs_box2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.aboutUs_text{
+    width: 400px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 0px; margin-bottom: 0px;
+    font-size: 16px;
+    color: #d1d8e2;
+
+}
+
+.aboutUs_img{
+    width: 300px; height: 300px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 0px; margin-bottom: 0px;
+}
+
+.whyChoose{
+    width: 100%;
+    background-color: #00535b;
+    font-family: "Montserrat", sans-serif;
+    margin: 0;
+    padding-bottom: 50px;
+}
+
+.whyChoose_box1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px; margin-bottom: 30px;
+}
+
+.whyChoose_title{
+    color: #d1d8e2;
+}
+
+.whyChoose_box2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.whyChoose_img{
+    width: 110px; height: 450px;
+}
+
+.whyChoose_img_div{
+    margin-left: 100px; margin-right: 50px;
+}
+
+.whyChoose_texts{
+    margin-left: 20px; margin-right: 100px;
+    width: 500px;
+    color: #d1d8e2;
+}
+
+.whyChoose_text1, .whyChoose_text2, .whyChoose_text3, .whyChoose_text4{
+    margin-top: 70px; margin-bottom: 70px;
+    font-size: 16px;
+}
+
+.bottom_container{
+    width: 100%;
+    height: 190px;
+    background-color: #221d19;
+    margin: 0px auto;
+    padding: 0px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.bottom_logo{
+    width: 150px;
+    height: 50px;
+    margin-left: 100px;
+    margin-top: 80px;
+
+}
+
+.bottom_contact{
+    margin-right: 90px;
+    margin-top: 50px;
+    font-family: "Montserrat", sans-serif;
+    color: #d1d8e2;
+    font-size: 12px;
+
+}
+
+.bottom_contact_title{
+    margin-bottom: 10px;
+}
+
+.bottom_box1, .bottom_box2{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+.bottom_box1{
+    height: 20px;
+    margin-bottom: 10px;
+}
+
+.bottom_box2{
+    height: 20px;
+}
+
+
+.bottom_phone_img, .bottom_email_img{
+    width: 20px;
+    height: 20px;
+}
+
+.number, .email{
+    margin-left: 10px;
+}
