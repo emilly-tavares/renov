@@ -58,19 +58,11 @@
 
 .img1{
     width: 900px; height: 410px;
-    background-image: url('./central1.jpg');
     background-size: cover; 
     background-position: center; 
     background-repeat: no-repeat; 
 }
 
-.img2{
-    background-image: url('./central2.jpg');
-}
-
-.img3{
-    background-image: url('./central3.jpg');
-}
 
 .img2, .img3{
     width: 300px; height: 200px;

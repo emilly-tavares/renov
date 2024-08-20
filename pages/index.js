@@ -6,6 +6,9 @@ import image from '../images/aboutUs_img.png';
 import points from '../images/whychoose_img.png';
 import phone from '../images/phone_icon.png';
 import email from '../images/email_icon.png';
+import central1 from '../images/central1.jpg';
+import central2 from '../images/central2.jpg';
+import central3 from '../images/central3.jpg';
 
 
 function Home(){
@@ -44,11 +47,11 @@ function Home(){
 
             <div className={styles.centralimages_container}>
 
-                    <div className={styles.img1} ></div>
+                    <div className={styles.img1} style={{backgroundImage: `url(${central1.src})`}}></div>
 
                     <div className={styles.centralimages_right}>
-                        <div className={styles.img2}></div>
-                        <div className={styles.img3}></div>
+                        <div className={styles.img2} style={{backgroundImage: `url(${central2.src})`}}></div>
+                        <div className={styles.img3} style={{backgroundImage: `url(${central3.src})`}}></div>
                     </div>
                
                 
