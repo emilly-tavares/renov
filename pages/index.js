@@ -7,9 +7,6 @@ import points from '../images/whychoose_img.png';
 import phone from '../images/phone_icon.png';
 import email from '../images/email_icon.png';
 
-import Central1 from '../images/central1.jpg';
-import Central2 from '../images/central2.jpg';
-import Central3 from '../images/central3.jpg';
 
 function Home(){
     return <div>

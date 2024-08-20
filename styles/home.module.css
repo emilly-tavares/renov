@@ -58,18 +58,18 @@
 
 .img1{
     width: 900px; height: 410px;
-    background-image: url('../.next/static/media/central1.eff80735.jpg');
+    background-image: url('./central1.jpg');
     background-size: cover; 
     background-position: center; 
     background-repeat: no-repeat; 
 }
 
 .img2{
-    background-image: url('../.next/static/media/central2.773069e9.jpg');
+    background-image: url('./central2.jpg');
 }
 
 .img3{
-    background-image: url('../.next/static/media/central3.005806c7.jpg');
+    background-image: url('./central3.jpg');
 }
 
 .img2, .img3{

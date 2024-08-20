@@ -1,10 +1,10 @@
 import Image from 'next/image';
 import Link from 'next/link';
-import phone from '../images/phone_icon.png';
-import email from '../images/email_icon.png';
+import phone from '/images/phone_icon.png';
+import email from '/images/email_icon.png';
 import styles from '../styles/services.module.css';
 import styles_home from '../styles/home.module.css';
-import logotipo from '../images/logo_renov.png';
+import logotipo from '/images/logo_renov.png';
 
 
 function ourServices(){
