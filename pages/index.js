@@ -50,8 +50,8 @@ function Home(){
                     <div className={styles.img1} ></div>
 
                     <div className={styles.centralimages_right}>
-                        <div className={styles.img2} ></div>
-                        <div className={styles.img3} ></div>
+                        <div className={styles.img2}></div>
+                        <div className={styles.img3}></div>
                     </div>
                
                 
