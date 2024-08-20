@@ -16,6 +16,7 @@
     justify-content: center;
     height: 450px;
     margin-right: 200px;
+    font-family: "Montserrat", sans-serif;
 }
 
 .contact_text_h1{
@@ -27,6 +28,7 @@
     align-items: center;
     justify-content: center;
     height: 450px;
+    font-family: "Montserrat", sans-serif;
 }
 
 .contact_btn{
