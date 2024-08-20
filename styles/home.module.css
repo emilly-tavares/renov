@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+@import '/images/central1.jpg';
+@import '/images/central2.jpg';
+@import '/images/central3.jpg';
 
 .header{
     width: 100%; height: 100px;
